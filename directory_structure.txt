@@ -1,0 +1,14 @@
+competition_package/
+├── datasets/
+│   └── train.parquet
+├── examples/
+│   └── simple/
+│       ├── README.md
+│       └── solution.py
+├── dataset_summary.csv
+├── directory_structure.py
+├── feature_statistics.csv
+├── overview_train.py
+├── README.md
+├── solution.py
+└── utils.py

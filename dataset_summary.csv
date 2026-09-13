@@ -1,0 +1,11 @@
+metric,value
+Total Rows,517000.0
+Total Sequences,517.0
+Number of Features,32.0
+Rows per Seq (Min),1000.0
+Rows per Seq (Max),1000.0
+Rows per Seq (Mean),1000.0
+Total Prediction Steps,464783.0
+Total Missing Values,0.0
+need_prediction_count (val=1),464783.0
+need_prediction_count (val=0),52217.0
